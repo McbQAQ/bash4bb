@@ -1,0 +1,6 @@
+project(bash4bb)
+cmake_minimum_required(VERSION 2.6)
+set(CMAKE_CXX_FLAGS "-std=c++11 -static")
+include_directories(../include)
+aux_source_directory(../src SOURCE)
+add_executable(bash4bb ./main.cc ${SOURCE})

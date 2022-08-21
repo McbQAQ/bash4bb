@@ -1,0 +1,3 @@
+/home/zzx/bash4bb/examples/build/CMakeFiles/rebuild_cache.dir
+/home/zzx/bash4bb/examples/build/CMakeFiles/bash4bb.dir
+/home/zzx/bash4bb/examples/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/zzx/bash4bb/examples/build",
+  "command": "/usr/bin/c++   -I/home/zzx/bash4bb/examples/../include  -std=c++11 -static   -o CMakeFiles/bash4bb.dir/main.cc.o -c /home/zzx/bash4bb/examples/main.cc",
+  "file": "/home/zzx/bash4bb/examples/main.cc"
+},
+{
+  "directory": "/home/zzx/bash4bb/examples/build",
+  "command": "/usr/bin/c++   -I/home/zzx/bash4bb/examples/../include  -std=c++11 -static   -o CMakeFiles/bash4bb.dir/home/zzx/bash4bb/src/bash.cc.o -c /home/zzx/bash4bb/src/bash.cc",
+  "file": "/home/zzx/bash4bb/src/bash.cc"
+},
+{
+  "directory": "/home/zzx/bash4bb/examples/build",
+  "command": "/usr/bin/c++   -I/home/zzx/bash4bb/examples/../include  -std=c++11 -static   -o CMakeFiles/bash4bb.dir/home/zzx/bash4bb/src/cmdParser.cc.o -c /home/zzx/bash4bb/src/cmdParser.cc",
+  "file": "/home/zzx/bash4bb/src/cmdParser.cc"
+},
+{
+  "directory": "/home/zzx/bash4bb/examples/build",
+  "command": "/usr/bin/c++   -I/home/zzx/bash4bb/examples/../include  -std=c++11 -static   -o CMakeFiles/bash4bb.dir/home/zzx/bash4bb/src/fileHandler.cc.o -c /home/zzx/bash4bb/src/fileHandler.cc",
+  "file": "/home/zzx/bash4bb/src/fileHandler.cc"
+},
+{
+  "directory": "/home/zzx/bash4bb/examples/build",
+  "command": "/usr/bin/c++   -I/home/zzx/bash4bb/examples/../include  -std=c++11 -static   -o CMakeFiles/bash4bb.dir/home/zzx/bash4bb/src/sigHandler.cc.o -c /home/zzx/bash4bb/src/sigHandler.cc",
+  "file": "/home/zzx/bash4bb/src/sigHandler.cc"
+}
+]
